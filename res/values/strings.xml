@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">BusyboxInstaller</string>
+    <string name="main_title">Voodoo Busybox installer</string>
+    <string name="install_system">Install in android System, available for every application</string>
+    <string name="install_data">Install on /data/local/tmp, root not required</string>
+
+</resources>
